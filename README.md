@@ -20,7 +20,7 @@ The dashboard provides *interactive and visual insights* for business decision-m
 - *Interactive Filters & Slicers* – Enable deeper exploration by color and region
 
 ##  📁 Dataset Used
-[Dataset Used](AdventureWorks2019Database)
+[Dataset](AdventureWorks2019Database.xls)
 ---
 
 ## Dashboard
