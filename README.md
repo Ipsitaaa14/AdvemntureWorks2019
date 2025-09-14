@@ -25,6 +25,7 @@ The dashboard provides *interactive and visual insights* for business decision-m
 
 ## Dashboard
 ![Dashboard Screenshot](Report-Page-1.png)
+
 ![Dashboard Screenshot](Report-Page-2.png)
 ---
 
