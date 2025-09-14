@@ -1,5 +1,5 @@
-# 📊 AdventureWorks2019 Analysis Dashboard 
-AdventureWorks is a sample retail and manufacturing dataset provided by Microsoft. It simulates a global company that sells products through multiple channels, including retail stores, online platforms, and distributors. The dataset contains detailed information on sales, products, customers, suppliers, and regions, making it widely used for learning and demonstrating data analysis, business intelligence, and Power BI dashboards.
+# 📊 Global Sales & Tax Insights Dashboard
+Global Sales & Tax Insights is a sample retail and manufacturing dataset provided by Microsoft. It simulates a global company that sells products through multiple channels, including retail stores, online platforms, and distributors. The dataset contains detailed information on sales, products, customers, suppliers, and regions, making it widely used for learning and demonstrating data analysis, business intelligence, and Power BI dashboards.
 
 ## 📌 Project Overview
 This project is a *Sales & Tax Analysis Dashboard* developed in Power BI to analyze sales performance, order quantities, tax amounts, and freight across different dimensions such as time, color, region, and country.  
@@ -20,7 +20,7 @@ The dashboard provides *interactive and visual insights* for business decision-m
 - *Interactive Filters & Slicers* – Enable deeper exploration by color and region
 
 ##  📁 Dataset Used
-[Dataset](AdventureWorks2019Database.xls)
+[Dataset](Global_Sales_&_Tax_Insights_Dataset.xls)
 ---
 
 ## Dashboard
